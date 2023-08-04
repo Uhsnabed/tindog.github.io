@@ -1,0 +1,127 @@
+#title{
+    background-color:aquamarine;
+}
+h1{
+    font-family:cursive;
+    font-size:large;
+    line-height: 1.5;
+    padding: 10px;
+    padding-right: 30px;
+
+}
+.container-fluid{
+    padding: 3% 10%;
+}
+.container-fluid1{
+    background-color:chocolate;
+}
+.navbar-brand{
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 7.5rem;
+    font-weight:bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.5rem;
+}
+.img1{
+    transform: rotate(20deg);
+    position: absolute;
+    width: 20%;
+   right: 20%;
+}
+h3{
+    font-weight: bold;
+}
+#features{
+   text-align: center;  
+    padding: 7% 15%;
+    background-color: aqua;
+    position: relative;
+    z-index: 1;
+}
+.para{
+   padding: 5%; 
+}
+i{
+    color: red;
+    margin-bottom: 1rem;
+}
+i:hover{
+    color: brown;
+}
+#testimonials{
+    padding: 7% 15% ;
+    text-align: center;
+    color:rgb(80, 106, 255);
+    background-color:burlywood;
+}
+.hi{
+    font-size: 3rem;
+    line-height: 1.5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.dog{
+    width: 20%;
+    border-radius: 70%;
+    border: 20px;
+    padding: 20px;
+}
+#press{
+    text-align: center;
+    background-color:burlywood;
+    padding-bottom: 20px;
+}
+.pre{
+    width: 15%;
+    padding: 20px;
+}
+
+.row{
+    text-align: center;
+    padding: 100px;
+}
+#btn11{
+    width: 80%;
+}
+#btn22{
+  width: 80%;
+}
+#btn33{
+  width: 80%;
+} 
+@media (max-width:1000px){
+.img1{
+    position: static;
+    transform: rotate(0);
+    padding: 25px;
+}
+#footer{
+    padding: 20px;
+    text-align: center;
+}
+}
+#cta{
+    text-align: center;
+    padding:40px;
+    background-color: blanchedalmond;
+}
+.btt{
+    margin: 20px;
+}
+#f1{
+  margin-top: 30px;
+  padding: 40px;
+
+  }
+#f2{
+    margin-top: 30px;
+    padding: 40px;
+}  
+#f3{
+    margin-top: 30px;
+    padding: 40px;
+}
